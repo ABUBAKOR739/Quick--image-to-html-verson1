@@ -1,0 +1,131 @@
+.heder {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 50px;
+}
+
+.logo {
+    width: 40%;
+    height: 50px;
+    float: left;
+}
+
+img {
+    width: 100px;
+    height: 50px;
+    display: inline;
+}
+
+.menu ul {
+    float: right;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin: 0px 5px;
+    color: rgb(27, 21, 210);
+}
+
+.text1 {
+    text-align: center;
+    margin: 50px 22%;
+}
+
+.text1 h1 {
+    font-size: 50px;
+}
+
+.lorem1 {
+    color: #008aff;
+}
+
+.firstimg img {
+    width: 450px;
+    height: 400px;
+    margin-left: 35%;
+}
+
+.projects {
+    display: flex;
+    gap: 50px;
+    margin-top: 80px;
+}
+
+.projects-desc {
+    width: 48%;
+    float: right;
+    text-align: right;
+}
+
+.k3 {
+    color: #f15767;
+}
+
+.Successfully {
+    color: #0f2656;
+
+}
+
+.creativity {
+    width: 100%;
+    display: flex;
+    padding-left: 1%;
+}
+
+.card1 {
+    background-color: #feebed;
+    width: 30%;
+    text-align: center;
+    margin-left: 2%;
+
+}
+
+.card2 {
+    background-color: #ebf9f4;
+    width: 30%;
+    text-align: center;
+    margin-left: 2%;
+}
+
+.card3 {
+    background-color: #fff7e8;
+    width: 30%;
+    text-align: center;
+    margin-left: 2%;
+}
+
+.card1 img {
+    width: 100%;
+    height: 300px;
+}
+
+.card2 img {
+    width: 100%;
+    height: 300px;
+}
+
+.card3 img {
+    width: 100%;
+    height: 300px;
+}
+
+p {
+    font-size: larger;
+}
+
+.outer-footer {
+    text-align: center;
+    background-color: #008aff;
+    height: 50px;
+    margin-top: 2%;
+}
+
+.outer-footer h5 {
+    padding-top: 18px;
+    color: #77bbf7;
+}
+
+.sc {
+    color: white;
+}
